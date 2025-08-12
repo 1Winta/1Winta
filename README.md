@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Winta
-- 👀 I’m interested in technology 
-- 📫 How to reach me atakltiwinta@gmail.com 
+- I’m software engineer and UI/UX Designer 
+- 👀 I’m interested in technology
+- 📫 How to reach me atakltiwinta@gmail.com, 
 
 <!---
 1Winta/1Winta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
